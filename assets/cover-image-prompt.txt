@@ -1,0 +1,9 @@
+Use case: ads-marketing. Asset: a professional landscape LinkedIn portfolio project cover and GitHub README hero. Create a polished editorial product illustration for an independent project called LinkedIn Content Automation. Wide 16:9 composition, ideally 1920x1080 or larger equivalent. Bright ivory background, restrained purple and LinkedIn-blue accents, midnight-navy typography, subtle depth and soft shadows. A finished technology portfolio cover, not a dense technical diagram or screenshot.
+
+Large, extremely legible exact title: "LinkedIn Content Automation". Smaller exact subtitle: "Human approval before publishing".
+
+Hero composition: an elegant Telegram-style phone chat panel, a small pair of AI draft and landscape-image preview cards, a green human-review check control, and a LinkedIn-style professional post card with an image thumbnail. Show clear visual progression using a few fine connection lines. The human approval moment is visually central. Include a tasteful magnifying-glass research icon integrated with the content cards. Premium translucent paper/glass interface objects with ample breathing room, not complicated fake apps. Use abstract content lines instead of tiny illegible body text. No people or robot mascots. Avoid decorative circuit brains, busy grids, stock photography and code walls.
+
+Use these readable small labels near hero elements, and no extra UI text: "Telegram", "Research", "Draft + Image", "Review", "LinkedIn". Footer exact text: "Make.com  |  OpenAI  |  Telegram  |  Google Sheets  |  LinkedIn".
+
+Keep title, subtitle and key hero elements within generous crop-safe margins. Clear hierarchy and readable at thumbnail size. All spelling precise. No personal details, handles, credentials, URLs, watermarks, claims of official endorsement, performance statistics, fake testimonials or invented badges. Actual polished raster cover illustration.

@@ -1,0 +1,23 @@
+Current date and time in Asia/Colombo:
+{{formatDate(now; "YYYY-MM-DD HH:mm"; "Asia/Colombo")}}
+
+Conversation summary:
+{{2.`6`}}
+
+Current draft:
+{{2.`4`}}
+
+Current status:
+{{2.`15`}}
+
+Previous image description:
+{{2.`7`}}
+
+Visual preferences:
+{{2.`16`}}
+
+New owner message:
+{{1.message.text}}
+
+WEB RESEARCH:
+{{first(map(19.output; "content.1.text"; "type"; "message"))}}

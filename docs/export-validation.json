@@ -1,0 +1,27 @@
+{
+  "scope": "Offline public-copy checks only. No live account access, API call, Make import or LinkedIn posting test.",
+  "source_sha256": "297a58b7e90f23e752f4f7cc3160ef18e4c5ad079608ff4e4f98e885f9f2c03d",
+  "blueprint_sha256": "489ba1523c266c7c409602f0070483e2da70870af08341f3f32a81f771f87671",
+  "source_modified": false,
+  "changes": [
+    "LinkedIn upload uses the actual Telegram fileOutput buffer.",
+    "Image input filter checks existence of fileOutput; no buffer-to-text length assumption.",
+    "Chat/draft/image reply caps are 3500/1200/1200; contradictory news-only 900 cap removed."
+  ],
+  "checks": {
+    "17_unique_modules": true,
+    "research_precedes_editor": true,
+    "publishing_route_preserved": true,
+    "connections_unbound": true,
+    "file_output_mapped": true,
+    "file_output_filter": true,
+    "parser_reads_editor": true,
+    "sequential_processing": true,
+    "no_obvious_tokens": true,
+    "no_email_addresses": true,
+    "source_sheet_id_removed": true,
+    "no_hardcoded_owner_filter_ids": true,
+    "legacy_image_data_path_removed": true,
+    "source_untouched": true
+  }
+}
